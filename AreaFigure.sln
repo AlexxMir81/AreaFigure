@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaFigure", "AreaFigure\AreaFigure.csproj", "{D5AA1485-90FB-41AF-8AAA-0DEFDE459283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaFigure.Test", "AreaFigure.Test\AreaFigure.Test.csproj", "{DA1ACCC3-55A9-485E-A8BB-B1F9F08C1F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AA1485-90FB-41AF-8AAA-0DEFDE459283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AA1485-90FB-41AF-8AAA-0DEFDE459283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AA1485-90FB-41AF-8AAA-0DEFDE459283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AA1485-90FB-41AF-8AAA-0DEFDE459283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1ACCC3-55A9-485E-A8BB-B1F9F08C1F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1ACCC3-55A9-485E-A8BB-B1F9F08C1F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1ACCC3-55A9-485E-A8BB-B1F9F08C1F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1ACCC3-55A9-485E-A8BB-B1F9F08C1F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C119A82-76B5-4D52-93C2-2AEB6A9FF223}
+	EndGlobalSection
+EndGlobal
